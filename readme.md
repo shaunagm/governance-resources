@@ -20,7 +20,11 @@ Please feel free to reach out to the community at any point in the process.  We'
 
 | Project       | Governance Doc(s) | Full Case Study |
 | ------------- |:-------------:| -----:|
-| [example]()   | [example]() | missing |
+| [Rust](https://www.rust-lang.org)   | [Rust RFC #1068](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md) |  |
+| [OpenStack](https://www.openstack.org)   | [OpenStack Governance](https://governance.openstack.org) |  |
+| [Jupyter](https://jupyter.org)   | [Jupyter Goverance Doc](https://github.com/jupyter/governance/blob/master/governance.md) |  |
+| [Django](https://www.djangoproject.com)   | [Organization of the Django project](https://docs.djangoproject.com/en/2.1/internals/organization/) |  |
+| [AstroPy](https://www.astropy.org/index.html)  | [AstroPy Team](https://www.astropy.org/team.html) |  |
 
 ## General Governance Resources
 
