@@ -4,7 +4,7 @@ This document provides guidance for writing up governance case studies.
 
 Below are the questions that a case study should contain answers to.  If you obtain the answers to these questions by interviewing community members that are not you or by referencing documents, please include links and attribution, except in the case where an interviewee prefers to remain anonymous.
 
-If you feel a question is unnecessary, or if you'd like to add additional questions, please open up an issue with the [case study questions]() so they can be debated.  We may decide to include some questions as optional.
+If you feel a question is unnecessary, or if you'd like to add additional questions, please open up an issue with the [case study questions](https://github.com/shaunagm/governance-resources/labels/case%20study%20questions) so they can be debated.  We may decide to include some questions as optional.
 
 ## Current governance process
 
@@ -38,3 +38,5 @@ If you feel a question is unnecessary, or if you'd like to add additional questi
 - How do you decide when a release happens and what goes into it?
 - How do you decide who gets commit access?
 - Do you have a RFC/PEP-like process?
+
+Many thanks to Python's [open source governance survey](https://www.python.org/dev/peps/pep-8002/#annex-1-template-questions) from which we have shamelessly stolen a number of questions.

@@ -4,7 +4,7 @@ Welcome to Governance Resources.  Our goal is to help open communities adopt and
 
 The project has two main content areas currently: an index of governance case studies, including individual project governance documents/constitutions, and an index of more general governance-related resources.  
 
-We also have some content areas in the pipeline.  Please see the [ideas]() label in our issue tracker.
+We also have some content areas in the pipeline.  Please see the [content ideas](https://github.com/shaunagm/governance-resources/labels/content%20ideas) label in our issue tracker.
 
 ## Governance Case Studies Index
 
@@ -14,7 +14,7 @@ To be included in this list, a project must have some form of explicit governanc
 
 You can contribute to the index in a few ways.  First, you can add stubs to the list below.  To do this, simply submit a PR, making sure to fill out all columns except the "full case study" link.
 
-If you'd like to add a new project with a full case study, or add a full case study to an existing stub, you'll need to use the [interview questions]() to guide your writeup.  You can do this for a project you're a part of, essentially interviewing yourself, or you can do this for a project you admire or are interested in.  Once you've done a writeup, you can submit it as a PR, and the community will review it and request edits.  (If you'd like to contribute by reviewing case studies, browse the [case study submissions]() label for open PRs.)
+If you'd like to add a new project with a full case study, or add a full case study to an existing stub, you'll need to use the interview questions in the [case study guide](https://github.com/shaunagm/governance-resources/blob/master/case-study-guide.md) to generate your writeup.  You can do this for a project you're a part of, essentially interviewing yourself, or you can do this for a project you admire or are interested in.  Once you've done a writeup, you can submit it as a PR, and the community will review it and request edits.  (If you'd like to contribute by reviewing case studies, browse the [case study submissions](https://github.com/shaunagm/governance-resources/labels/case%20study%20submissions) label for open PRs.)
 
 Please feel free to reach out to the community at any point in the process.  We're happy to answer questions, provide guidance, and cheer you on.  :)
 
@@ -24,7 +24,7 @@ Please feel free to reach out to the community at any point in the process.  We'
 
 ## General Governance Resources
 
-Below is a list of articles, conference talks, books, and other resources which address governance in open and/or technical communities.  Bolded resources are recommended by the community.  If you want a resource to be recommended, open an issue in the tracker with the label [recommended resource proposal]() and explain why you recommend it.  If two or more community members agree through leaving a comment on the issue, the resource will be recommended.
+Below is a list of articles, conference talks, books, and other resources which address governance in open and/or technical communities.  Bolded resources are recommended by the community.  If you want a resource to be recommended, open an issue in the tracker with the label [recommended resource proposal](https://github.com/shaunagm/governance-resources/labels/recommended%20resource%20proposal) and explain why you recommend it.  If two or more community members agree through leaving a comment on the issue, the resource will be recommended.
 
 ### Articles & Blog Posts
 
