@@ -1,6 +1,6 @@
 # Case Study Guide
 
-This document provides guidance for writing up governance case studies.
+This document provides guidance for writing up governance case studies.  A case study has two elements: questions to the individual answers written below, and a short (2-5 paragraph) summary capturing the key elements of the project's governance.
 
 Below are the questions that a case study should contain answers to.  If you obtain the answers to these questions by interviewing community members that are not you or by referencing documents, please include links and attribution, except in the case where an interviewee prefers to remain anonymous.
 
