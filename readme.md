@@ -26,6 +26,8 @@ Please feel free to reach out to the community at any point in the process.  We'
 | [Django](https://www.djangoproject.com)   | [Organization of the Django project](https://docs.djangoproject.com/en/2.1/internals/organization/) |  |
 | [AstroPy](https://www.astropy.org/index.html)  | [AstroPy Team](https://www.astropy.org/team.html) |  |
 | [NodeJS](https://nodejs.org/en/) | [Project Governance](https://nodejs.org/en/about/governance/) |  |
+| [OpenHumans](https://www.openhumans.org) | [Governance](http://openhumansfoundation.org/#governance) | |
+
 
 ## General Governance Resources
 
